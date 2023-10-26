@@ -3,6 +3,8 @@ Welcome to the "My Restaurant" website project. This project aims to design and 
 This website will provide an attractive and user-friendly interface to engage customers and promote the restaurant's offerings.
 # Azure Technologies
 The project is hosted on Azure using Azure Static Web Apps and monitored with Azure Application Insights for performance and usage tracking.
+
+
 # Project Structure
 'index.html' :The main webpage for the restaurant website.
 'style.css' :The stylesheet for designing the website.
