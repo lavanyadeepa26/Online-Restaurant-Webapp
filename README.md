@@ -6,34 +6,30 @@ The project is hosted on Azure using Azure Static Web Apps and monitored with Az
 
 
 # Project Structure
-'index.html' :The main webpage for the restaurant website.
-'style.css' :The stylesheet for designing the website.
-'script.js' :JavaScript file for interactivity and functionality.
-'menu.html' :A folder containing menu item details.
-'reviews'   :A folder for storing customer reviews.
-'github'    :Contains workflows for Continuous Integration and Continuous Deployment (CI/CD) with Azure Static Web Apps.
-'README.md' :This documentation file.
+ - 'index.html' :The main webpage for the restaurant website.
+ - 'style.css' :The stylesheet for designing the website.
+- 'script.js' :JavaScript file for interactivity and functionality.
+- 'menu.html' :A folder containing menu item details.
+- 'reviews'   :A folder for storing customer reviews.
+- 'github'    :Contains workflows for Continuous Integration and Continuous Deployment (CI/CD) with Azure Static Web Apps.
+- 'README.md' :This documentation file.
 
 # Azure Static Web Apps & Azure Monitor
 
-# Azure Static Web Apps
-Azure Static Web Apps is a fully managed service for building and deploying web apps. 
-It is designed to simplify the process of hosting modern web applications and providing a seamless deployment workflow.
-    Static Web Hosting: Azure Static Web Apps are optimized for hosting static web content, such as HTML, CSS, and JavaScript files.
-    Continuous Integration/Continuous Deployment (CI/CD): Azure Static Web Apps seamlessly integrate with popular source code repositories like GitHub, enabling automatic deployments on code changes.
-    Serverless Functions: The service allows you to easily create and deploy serverless functions, which can be used to add dynamic functionality to your static website.
-    Custom Domains: You can configure custom domains to ensure your web app has a professional and branded web address.
-    Authentication and Authorization: Implement authentication and authorization for your web apps using Azure Active Directory, OAuth providers, and other identity services.
+# Azure Static Web Apps:
+ Azure Static Web Apps is a service provided by Microsoft Azure that allows you to build and host static web applications with serverless backends. This service is designed to simplify the deployment and hosting of static websites, providing a scalable, secure, and cost-effective solution. Here are some key points about Azure Static Web Apps:
 
 # Azure Monitor
-Azure Monitor is a comprehensive platform for collecting, analyzing, and acting on telemetry data from your Azure resources and applications. 
-It provides insights into the performance, health, and usage of your applications and infrastructure.
-    Performance Monitoring: Azure Monitor helps you track the performance of your applications, virtual machines, databases, and other Azure resources.
-    Logs and Metrics: Collect and analyze logs and metrics to troubleshoot issues, identify trends, and optimize resource usage.
-    Alerts and Notifications: Create alerts based on metrics and logs to proactively respond to issues, with options for sending notifications via various channels.
-    Application Insights: Application Insights is a component of Azure Monitor that specifically focuses on web application performance monitoring.
-    Security Monitoring: Monitor your Azure resources and applications for security threats and vulnerabilities.
-    Cost Management: Gain insights into your Azure spending and resource usage, helping you manage costs effectively.
+ Azure Monitor is a powerful reporting and analytics tool. It maximizes the availability and performance of  applications by delivering a comprehensive solution for collecting, analyzing, and acting on telemetry from your cloud and on-premises environments.
+
+# Azure Demo 
+![az1](https://github.com/lavanyadeepa26/Online-Restaurant-Webapp/assets/113665236/763b15c5-6c8e-4ece-8a08-6cb4dc4cdbf9)
+![az2](https://github.com/lavanyadeepa26/Online-Restaurant-Webapp/assets/113665236/e2acedce-d068-449b-9955-ab549d1c7030)
+![az3](https://github.com/lavanyadeepa26/Online-Restaurant-Webapp/assets/113665236/dd75bb5e-67fa-4aa2-b4ae-41e9ea59957c)
+![az4](https://github.com/lavanyadeepa26/Online-Restaurant-Webapp/assets/113665236/3c5ee2ce-c195-4a3d-8175-5d0999059f9f)
+![az5](https://github.com/lavanyadeepa26/Online-Restaurant-Webapp/assets/113665236/4c5ed154-b1ff-4ece-a5f5-e5e2f393de40)
+![az](https://github.com/lavanyadeepa26/Online-Restaurant-Webapp/assets/113665236/58d10402-f0ad-439e-a1b3-2e1e34d2060c)
+
 
 # Demo
 # HOME PAGE
