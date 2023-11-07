@@ -1,9 +1,21 @@
 # Online-Restaurant-Webapp
 Welcome to the "My Restaurant" website project. This project aims to design and develop a restaurant website where customers can explore a variety of dishes, read reviews, view the menu, and place orders. 
 This website will provide an attractive and user-friendly interface to engage customers and promote the restaurant's offerings.
-# Azure Technologies
 The project is hosted on Azure using Azure Static Web Apps and monitored with Azure Application Insights for performance and usage tracking.
 
+# Technologies Used
+
+
+   - **HTML:** For the structure of the web page.
+   - **CSS:** For styling and layout.
+   - **JavaScript:** For client-side logic and interactions.
+   - **Azure Services:** To provide translation capabilities.
+   - **Azure Virtual Network (VNet):** For secure network connectivity and isolation.
+   - **Azure Virtual Machine (VM):** To host the server-side code.
+   - **Domain Name System (DNS):** To associate a domain name with the VM's IP address custom DNS.
+   - **Azure Monitor:** For monitoring and analyzing application performance.
+   - **Azure Backup:** To safeguard data with automated backups.
+   - **Azure Site Recovery:** For disaster recovery and business continuity.
 
 # Project Structure
  - 'index.html' :The main webpage for the restaurant website.
