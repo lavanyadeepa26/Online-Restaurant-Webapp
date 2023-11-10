@@ -62,8 +62,8 @@ Azure QnA Maker is used to create a knowledge base that powers question-and-answ
 # FOOTER PAGE
 ![az9](https://github.com/lavanyadeepa26/Online-Restaurant-Webapp/assets/113665236/a7d57627-fa82-4cb1-9322-9821ff36b703)
 
-# LOGIN PAGE
-![az10](https://github.com/lavanyadeepa26/Online-Restaurant-Webapp/assets/113665236/cb537acc-92e4-4177-8ed3-8c778312c6a8)
+# CHAT PAGE
+
 
 
 
