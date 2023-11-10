@@ -35,11 +35,6 @@ Azure QnA Maker is used to create a knowledge base that powers question-and-answ
 
 # Azure Demo 
 ![az1](https://github.com/lavanyadeepa26/Online-Restaurant-Webapp/assets/113665236/763b15c5-6c8e-4ece-8a08-6cb4dc4cdbf9)
-![az2](https://github.com/lavanyadeepa26/Online-Restaurant-Webapp/assets/113665236/e2acedce-d068-449b-9955-ab549d1c7030)
-![az3](https://github.com/lavanyadeepa26/Online-Restaurant-Webapp/assets/113665236/dd75bb5e-67fa-4aa2-b4ae-41e9ea59957c)
-![az4](https://github.com/lavanyadeepa26/Online-Restaurant-Webapp/assets/113665236/3c5ee2ce-c195-4a3d-8175-5d0999059f9f)
-![az5](https://github.com/lavanyadeepa26/Online-Restaurant-Webapp/assets/113665236/4c5ed154-b1ff-4ece-a5f5-e5e2f393de40)
-![az](https://github.com/lavanyadeepa26/Online-Restaurant-Webapp/assets/113665236/58d10402-f0ad-439e-a1b3-2e1e34d2060c)
 
 
 # Demo
