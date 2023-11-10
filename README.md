@@ -34,7 +34,12 @@ Integrate AI into your applications that can extract information, classify text,
 Azure QnA Maker is used to create a knowledge base that powers question-and-answer capabilities in applications and chatbots. It allows developers to easily build natural language interfaces for information retrieval by training machine learning models on FAQ-style content, enabling automated responses to user queries.
 
 # Azure Demo 
-![az1](https://github.com/lavanyadeepa26/Online-Restaurant-Webapp/assets/113665236/763b15c5-6c8e-4ece-8a08-6cb4dc4cdbf9)
+
+![az Language](https://github.com/lavanyadeepa26/Online-Restaurant-Webapp/assets/113665236/757df3ff-83a6-443e-9213-a86051f5334b)
+![az resource](https://github.com/lavanyadeepa26/Online-Restaurant-Webapp/assets/113665236/6aa851b2-6474-4dfe-b898-4501afe7820a)
+![az static page](https://github.com/lavanyadeepa26/Online-Restaurant-Webapp/assets/113665236/5cbce43b-9e00-4d6c-9686-3d1284ae45b3)
+![bot](https://github.com/lavanyadeepa26/Online-Restaurant-Webapp/assets/113665236/9e0903b9-e746-4e06-b950-2168eea14e6c)
+![language service](https://github.com/lavanyadeepa26/Online-Restaurant-Webapp/assets/113665236/8bcc2918-c447-4d64-b816-457e6ebfafbb)
 
 
 # Demo
