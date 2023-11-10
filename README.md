@@ -35,14 +35,15 @@ Azure QnA Maker is used to create a knowledge base that powers question-and-answ
 
 # Azure Demo 
 
-![az Language](https://github.com/lavanyadeepa26/Online-Restaurant-Webapp/assets/113665236/757df3ff-83a6-443e-9213-a86051f5334b)
-![az resource](https://github.com/lavanyadeepa26/Online-Restaurant-Webapp/assets/113665236/6aa851b2-6474-4dfe-b898-4501afe7820a)
 ![az static page](https://github.com/lavanyadeepa26/Online-Restaurant-Webapp/assets/113665236/5cbce43b-9e00-4d6c-9686-3d1284ae45b3)
+![az Language](https://github.com/lavanyadeepa26/Online-Restaurant-Webapp/assets/113665236/757df3ff-83a6-443e-9213-a86051f5334b)
 ![bot](https://github.com/lavanyadeepa26/Online-Restaurant-Webapp/assets/113665236/9e0903b9-e746-4e06-b950-2168eea14e6c)
 ![language service](https://github.com/lavanyadeepa26/Online-Restaurant-Webapp/assets/113665236/8bcc2918-c447-4d64-b816-457e6ebfafbb)
+![az resource](https://github.com/lavanyadeepa26/Online-Restaurant-Webapp/assets/113665236/6aa851b2-6474-4dfe-b898-4501afe7820a)
 
 
 # Demo
+
 # HOME PAGE
 ![az1](https://github.com/lavanyadeepa26/Online-Restaurant-Webapp/assets/113665236/67e09149-f3a8-4587-a269-1b5e549fa9d1)
 # DISHES
