@@ -24,8 +24,6 @@ The project is hosted on Azure using Azure Static Web Apps and monitored with Az
 - 'README.md' :This documentation file.
 # Azure Services
 
-# Azure Static Web Apps 
-
 # Azure Static Web Apps:
  Azure Static Web Apps is a service provided by Microsoft Azure that allows you to build and host static web applications with serverless backends. This service is designed to simplify the deployment and hosting of static websites, providing a scalable, secure, and cost-effective solution. Here are some key points about Azure Static Web Apps:
 
