@@ -10,12 +10,9 @@ The project is hosted on Azure using Azure Static Web Apps and monitored with Az
    - **CSS:** For styling and layout.
    - **JavaScript:** For client-side logic and interactions.
    - **Azure Services:** To provide translation capabilities.
-   - **Azure Virtual Network (VNet):** For secure network connectivity and isolation.
-   - **Azure Virtual Machine (VM):** To host the server-side code.
-   - **Domain Name System (DNS):** To associate a domain name with the VM's IP address custom DNS.
-   - **Azure Monitor:** For monitoring and analyzing application performance.
-   - **Azure Backup:** To safeguard data with automated backups.
-   - **Azure Site Recovery:** For disaster recovery and business continuity.
+   - **Azure Static Web App:** Azure Static Web Apps helps to deploy our project.
+   - **Azure Language Studio :** Helps to create a KB question and answers.
+   - **Azure QnA maker:**  Create conversational interfaces by training machine learning models on FAQ-style content for automated responses in applications.
 
 # Project Structure
  - 'index.html' :The main webpage for the restaurant website.
@@ -25,14 +22,18 @@ The project is hosted on Azure using Azure Static Web Apps and monitored with Az
 - 'reviews'   :A folder for storing customer reviews.
 - 'github'    :Contains workflows for Continuous Integration and Continuous Deployment (CI/CD) with Azure Static Web Apps.
 - 'README.md' :This documentation file.
+# Azure Services
 
-# Azure Static Web Apps & Azure Monitor
+# Azure Static Web Apps 
 
 # Azure Static Web Apps:
  Azure Static Web Apps is a service provided by Microsoft Azure that allows you to build and host static web applications with serverless backends. This service is designed to simplify the deployment and hosting of static websites, providing a scalable, secure, and cost-effective solution. Here are some key points about Azure Static Web Apps:
 
-# Azure Monitor
- Azure Monitor is a powerful reporting and analytics tool. It maximizes the availability and performance of  applications by delivering a comprehensive solution for collecting, analyzing, and acting on telemetry from your cloud and on-premises environments.
+# Azure Language Studio :
+Integrate AI into your applications that can extract information, classify text, understand conversational language, answer questions and more.
+
+# QnA Maker :
+Azure QnA Maker is used to create a knowledge base that powers question-and-answer capabilities in applications and chatbots. It allows developers to easily build natural language interfaces for information retrieval by training machine learning models on FAQ-style content, enabling automated responses to user queries.
 
 # Azure Demo 
 ![az1](https://github.com/lavanyadeepa26/Online-Restaurant-Webapp/assets/113665236/763b15c5-6c8e-4ece-8a08-6cb4dc4cdbf9)
